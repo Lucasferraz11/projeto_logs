@@ -1,4 +1,4 @@
-# 🛠️ Projeto - Analisador de Logs com MySQL e Relatórios
+# 🛠️ Projeto 5 - Analisador de Logs com MySQL e Relatórios
 
 Este projeto carrega arquivos CSV contendo registros de erros do sistema, armazena os dados em um banco MySQL e gera indicadores consolidados em um relatório Excel.
 
